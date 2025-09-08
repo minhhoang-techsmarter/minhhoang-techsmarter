@@ -1,4 +1,4 @@
-# Hi, I'm Minh Hoang.
+# Hi, I'm Tony Hoang.
 
 Full-Stack | Web | Mobile (iOS & Flutter)
 
@@ -12,7 +12,9 @@ Full-Stack | Web | Mobile (iOS & Flutter)
 - Crossplatform mobile, desktop and web with Flutter  
 - Native App iOS with Swift  
 - Build codebase clean architecture, MVVM, Reactive Programming  
-- Unit test, UI testing and integration test  
+- Unit test, UI testing and integration test
+- Backend development with PHP frameworks (Laravel, etc.) and Node.js  
+- Embedded system & OS programming  
 
 ## Connect
 
