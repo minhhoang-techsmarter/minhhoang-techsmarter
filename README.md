@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @minhhoang-techsmarter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Minh Hoang.
 
-<!---
-minhhoang-techsmarter/minhhoang-techsmarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack | Web | Mobile (iOS & Flutter)
+
+[![Github](https://img.shields.io/github/followers/minhhoang-techsmarter?style=social)](https://github.com/minhhoang-techsmarter)
+[![Github](https://img.shields.io/github/last-commit/minhhoang-techsmarter/minhhoang-techsmarter)](https://github.com/minhhoang-techsmarter/minhhoang-techsmarter)
+[![Github](https://img.shields.io/github/stars/minhhoang-techsmarter/minhhoang-techsmarter?style=social)](https://github.com/minhhoang-techsmarter/minhhoang-techsmarter)
+[![Github](https://img.shields.io/github/watchers/minhhoang-techsmarter/minhhoang-techsmarter?style=social)](https://github.com/minhhoang-techsmarter/minhhoang-techsmarter)
+
+## Skills
+
+- Crossplatform mobile, desktop and web with Flutter  
+- Native App iOS with Swift  
+- Build codebase clean architecture, MVVM, Reactive Programming  
+- Unit test, UI testing and integration test  
+
+## Connect
+
+<a href="https://www.linkedin.com/in/minhhoang-techsmarter/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/minhhoang-techsmarter">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="mailto:dev@nailcost.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
